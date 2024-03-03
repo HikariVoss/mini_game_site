@@ -1,0 +1,15 @@
+:root {
+    box-sizing: content-box;
+}
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100vw;
+}
+.container {
+    background-color: black;
+    width: 500px;
+    height: 500px;
+}
